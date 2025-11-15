@@ -2,13 +2,13 @@
 
 # MM Discord Bot
 
-A Discord bot that automatically updates a Discord category name with the total count of trainers from a Neon database.
+Mad Monkey is an open-source Discord bot built for the [GitMon](www.gitmon.xyz) ecosystem, but free for anyone who wants a fun, customizable, and community-driven bot for their server.
 
 ## Installation
 
 1. Clone this repository
 2. Run `npm install` to install dependencies
-3. Copy `example.env` to `.env` and fill in your configuration values
+3. Setup a `example.env` to `.env` and fill in your configuration values
 4. Run the bot with `npm start`
 
 ## Running
