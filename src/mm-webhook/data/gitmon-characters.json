@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Shadrix",
+    "type": "shadow",
+    "emoji": "👤",
+    "color": "0x2C2C2C",
+    "description": "A mysterious shadow-type GitMon that lurks in the depths of your codebase, finding hidden vulnerabilities and stealth bugs.",
+    "imageUrl": "https://gitmon.xyz/_next/image?url=%2Fmonsters%2Fmonster-000.png&w=3840&q=75"
+  },
+  {
+    "name": "Fairy",
+    "type": "fire",
+    "emoji": "🔥",
+    "color": "0xFF6B35",
+    "description": "A fierce fire-type GitMon with blazing hot compilation speeds. Burns through legacy code and ignites new innovations.",
+    "imageUrl": "https://gitmon.xyz/_next/image?url=%2Fmonsters%2Fmonster-001-png.png&w=3840&q=75"
+  },
+  {
+    "name": "Crystalix",
+    "type": "ice",
+    "emoji": "🧊",
+    "color": "0x87CEEB",
+    "description": "A cool ice-type GitMon that freezes bugs in their tracks and maintains crystal-clear code architecture.",
+    "imageUrl": "https://gitmon.xyz/_next/image?url=%2Fmonsters%2Fmonster-002-png.png&w=3840&q=75"
+  },
+  {
+    "name": "Guarana",
+    "type": "grass",
+    "emoji": "🌱",
+    "color": "0x32CD32",
+    "description": "A nature-loving grass-type GitMon that grows organic, sustainable code and nurtures healthy development environments.",
+    "imageUrl": "https://gitmon.xyz/_next/image?url=%2Fmonsters%2Fmonster-003-png.png&w=3840&q=75"
+  },
+  {
+    "name": "Volterra",
+    "type": "electric",
+    "emoji": "⚡",
+    "color": "0xFFD700",
+    "description": "An energetic electric-type GitMon that supercharges your builds and electrifies performance optimizations.",
+    "imageUrl": "https://gitmon.xyz/_next/image?url=%2Fmonsters%2Fmonster-004-png.png&w=3840&q=75"
+  },
+  {
+    "name": "Aquarus",
+    "type": "water",
+    "emoji": "💧",
+    "color": "0x4169E1",
+    "description": "A fluid water-type GitMon that flows seamlessly through continuous integration and keeps your deployment pipeline flowing smoothly.",
+    "imageUrl": "https://gitmon.xyz/_next/image?url=%2Fmonsters%2Fmonster-005-png.png&w=3840&q=75"
+  },
+  {
+    "name": "Infernus",
+    "type": "fire",
+    "emoji": "🔥",
+    "color": "0xDC143C",
+    "description": "An intense fire-type GitMon that forges robust applications in the flames of rigorous testing and quality assurance.",
+    "imageUrl": "https://gitmon.xyz/_next/image?url=%2Fmonsters%2Fmonster-006-png.png&w=3840&q=75"
+  },
+  {
+    "name": "Lumenis",
+    "type": "grass",
+    "emoji": "🌿",
+    "color": "0x228B22",
+    "description": "A bright grass-type GitMon that illuminates clean code practices and cultivates thriving open-source communities.",
+    "imageUrl": "https://gitmon.xyz/_next/image?url=%2Fmonsters%2Fmonster-007.png&w=3840&q=75"
+  },
+  {
+    "name": "Spectra",
+    "type": "psychic",
+    "emoji": "🧠",
+    "color": "0xFF6B9D",
+    "description": "A psychic-type GitMon with mind-reading debugging abilities. Predicts bugs before they happen and telepathically optimizes code.",
+    "imageUrl": "https://gitmon.xyz/_next/image?url=%2Fmonsters%2Fmonster-008.png&w=3840&q=75"
+  }
+]
