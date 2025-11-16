@@ -11,17 +11,15 @@ function loadCharacters() {
 
 function createCharacterEmbed(character) {
     return {
+        username: "GitDex",
+        avatar_url: "https://gitmon.xyz/favicon.ico",
         embeds: [{
-            title: `${character.emoji} **${character.name.toUpperCase()}**`,
+            title: `**${character.name.toUpperCase()} | ${character.type.toUpperCase()}**`,
             description: character.description,
             color: parseInt(character.color),
-            fields: [
-                {
-                    name: "Type",
-                    value: `${character.emoji} ${character.type.toUpperCase()}`,
-                    inline: true
-                }
-            ],
+            image: {
+                url: character.imageUrl
+            },
             footer: {
                 text: "GitMon Universe • Character Showcase"
             }
@@ -41,7 +39,7 @@ async function sendCharacterShowcase(webhookUrl) {
             await axios.post(webhookUrl, embed);
             console.log(`✅ Sent: ${character.name} (${character.type})`);
 
-            await new Promise(resolve => setTimeout(resolve, 1000));
+            await new Promise(resolve => setTimeout(resolve, 3000));
         } catch (error) {
             console.error(`❌ Failed to send ${character.name}:`, error.message);
         }
